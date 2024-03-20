@@ -95,6 +95,8 @@ Descrição:
 - --verbose: Exibe informações detalhadas durante a execução dos testes.
 - --runInBand: Executa os testes em série, em vez de paralelamente.
 
+## Insomnia
+Temos o `insmonia_2024_03-18.json` opção para testar as rotas, basta importar ele no seu workspace do insomnia e configurar suas variavais de ambiente como localhost e etc...
 # Rotas
 
 ## POST /cars
