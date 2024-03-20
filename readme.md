@@ -90,10 +90,10 @@ dotenv -e .env.test -- jest --verbose --runInBand
 
 Descrição:
 
-dotenv -e .env.test: Carrega as variáveis de ambiente do arquivo .env.test.
-jest: Executa os testes utilizando o Jest.
---verbose: Exibe informações detalhadas durante a execução dos testes.
---runInBand: Executa os testes em série, em vez de paralelamente.
+- dotenv -e .env.test: Carrega as variáveis de ambiente do arquivo .env.test.
+- jest: Executa os testes utilizando o Jest.
+- --verbose: Exibe informações detalhadas durante a execução dos testes.
+- --runInBand: Executa os testes em série, em vez de paralelamente.
 
 # Rotas
 
